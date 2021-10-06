@@ -1,0 +1,30 @@
+body{background: #b3b3b3;
+margin: 2%;
+font-size: 150%;
+}
+
+h1{color: #ffffff;
+text-align: ;}
+
+nav{
+	font-variant: small-caps;
+font-family: arial, "times new roman", serif;
+color: #ffffff;}
+h3{color: #ffffff;
+background: #5a5950;}
+
+div{text-align: center;}
+button{background: gray;
+	text-align: center;
+font-size: 22px;
+margin: 10px;
+text-align: center;}
+
+footer{
+	margin: 30px;
+	display: block;
+	;
+
+height: 100px;
+clear: both;}
+span{margin: 6px;}
